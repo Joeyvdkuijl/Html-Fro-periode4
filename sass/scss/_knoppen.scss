@@ -1,0 +1,17 @@
+// sass --watch scss/main.scss css/style.css
+    .knop{
+    background-color: $secondaire-kleur;
+    color: $secondaire-donker;
+    font-size: 1.1em;
+    padding: .5em 2em;
+    }
+    .knop:hover{
+        background-color: $secondaire-donker;
+        color: #fff;
+    }
+    .knop-houder{
+        text-align: center;
+        padding: 1em 0 1.5em;
+        border-bottom: 1px solid $secondaire-donker;
+    }
+        
